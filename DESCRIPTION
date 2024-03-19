@@ -8,4 +8,5 @@ Description: This package is a demonstration of how to create a pacakage in R.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-
+URL: https://github.com/oceduardo/demo
+BugReports: https://github.com/oceduardo/demo/issues
